@@ -1,0 +1,35 @@
+---
+title: "Tugas Praktikum 3 dan 4"
+author: "Abialam Koesnandy Hardjantho"
+date: "10/03/2021"
+output:
+  rmarkdown::html_document:
+    theme: darkly
+    highlight: espresso 
+    toc:  true
+    toc_float: true
+---
+<style type="text/css">
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: #f5a111;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#### ASSOCIATION BETWEEN TWO CATEGORICAL VARIABLES
+
+## Soal 4.1
+
+## Soal 4.2
+
+## Soal 4.3
+
+## Soal 4.4
+
+## Soal 4.6
+
